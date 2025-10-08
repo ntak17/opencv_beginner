@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "gsgupta.opencv-snippets"
+        "gsgupta.opencv-snippets",
+        "kevinrose.vsc-python-indent"
     ]
 }
